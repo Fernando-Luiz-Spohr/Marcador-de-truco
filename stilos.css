@@ -1,0 +1,241 @@
+*{
+    background-color:green;
+  }
+  
+  
+  button{
+    background-color:red;
+  }
+  h1{
+    text-align:center;
+  }
+  
+  input{
+  background-color:red;
+    text-align:center;
+    margin-bottom:4px;
+  }
+  .caixa1{
+  margin-left:23vw;
+    width:25vw;
+  }
+  .caixa2{
+    width:25vw;
+  }
+  
+  .placar1{
+    margin-left:23vw;
+    width:26vw;
+  }
+  .placar2{
+    width:26vw; 
+  }
+  
+  .subtracao1{
+    margin-left:25vw;
+    width:10vw;
+    height:10vw;
+  }
+  .subtracao2{
+    margin-left:6vw;
+    width:10vw;
+    height:10vw;
+  }
+  
+  .soma1{
+    width:10vw;
+    height:10vw;
+  }
+  .soma2{
+    width:10vw;
+    height:10vw;
+  }
+  
+  .truco1{
+    margin-left:30vw;
+    width:10vw;
+    height:10vw;
+     margin-top:5vw;
+  }
+  .truco2{
+    margin-left:17vw;
+    width:10vw;
+    height:10vw;
+    margin-top:5vw;
+  }
+  
+  .zerar{
+    margin-left:41vw;
+    width:15vw;
+    height:10vw;
+    margin-bottom:30vh;
+  }
+
+
+
+
+
+
+
+  
+  @media (min-width:600px) {
+     
+   *{ 
+    background-color:green;
+  }
+  
+  
+  button{
+    background-color:red;
+  }
+  h1{
+    text-align:center;
+  }
+  
+  input{
+  background-color:red;
+    text-align:center;
+    margin-bottom:4px;
+  }
+  .caixa1{
+  margin-left:23vw;
+    width:25vw;
+  }
+  .caixa2{
+    width:25vw;
+  }
+  
+  .placar1{
+    margin-left:23vw;
+    width:26vw;
+  }
+  .placar2{
+    width:26vw; 
+  }
+  
+  .subtracao1{
+    margin-left:30.5vw;
+    width:5vw;
+    height:5vw;
+  }
+  .subtracao2{
+    margin-left:15.5vw;
+    width:5vw;
+    height:5vw;
+  }
+  
+  .soma1{
+    width:5vw;
+    height:5vw;
+  }
+  .soma2{
+    width:5vw;
+    height:5vw;
+  }
+  
+  .truco1{
+    margin-left:33vw;
+    width:5vw;
+    height:5vw;
+     margin-top:1vw;
+  }
+  .truco2{
+    margin-left:22vw;
+    width:5vw;
+    height:5vw;
+    margin-top:1vw;
+  }
+  
+  .zerar{
+    margin-left:42vw;
+    width:15vw;
+    height:10vw;
+    margin-bottom:30vh;
+  }
+  
+  }
+
+
+
+
+
+
+
+
+
+  @media (min-width:1000px) {
+     
+    *{ 
+     background-color:green;
+   }
+   
+   
+   button{
+     background-color:red;
+   }
+   h1{
+     text-align:center;
+   }
+   
+   input{
+   background-color:red;
+     text-align:center;
+     margin-bottom:4px;
+   }
+   .caixa1{
+   margin-left:33vw;
+     width:15vw;
+   }
+   .caixa2{
+     width:15vw;
+   }
+   
+   .placar1{
+     margin-left:33vw;
+     width:15.5vw;
+   }
+   .placar2{
+     width:15.5vw; 
+   }
+   
+   .subtracao1{
+     margin-left:35.5vw;
+     width:5vw;
+     height:5vw;
+   }
+   .subtracao2{
+     margin-left:6vw;
+     width:5vw;
+     height:5vw;
+   }
+   
+   .soma1{
+     width:5vw;
+     height:5vw;
+   }
+   .soma2{
+     width:5vw;
+     height:5vw;
+   }
+   
+   .truco1{
+     margin-left:38.5vw;
+     width:5vw;
+     height:5vw;
+      margin-top:1vw;
+   }
+   .truco2{
+     margin-left:11vw;
+     width:5vw;
+     height:5vw;
+     margin-top:1vw;
+   }
+   
+   .zerar{
+     margin-left:44vw;
+     width:10vw;
+     height:5vw;
+     margin-bottom:20vh;
+   }
+   
+   }
